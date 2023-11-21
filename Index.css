@@ -1,0 +1,27 @@
+body
+{
+	font-size : 16pt;
+	font-family : monospace, cursive;
+	margin-left : 5%;
+	margin-right : 5%;
+	margin-top : 5%;
+	margin-bottom : 5%;
+	background-color : light-yellow;
+	color : rgb(50, 129, 168);
+	text-align : justify;
+}
+
+.center
+{
+	text-align : center;
+	font-size : 50pt;
+	color: rgb(50, 129, 168);
+}
+
+.MetroBoomin
+{
+	text-align : center;
+	font-size : 35pt;
+	color : rgb(50, 129, 168);
+}
+
